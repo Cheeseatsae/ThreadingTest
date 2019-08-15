@@ -399,7 +399,7 @@ PrefabInstance:
     - target: {fileID: 934738969887019436, guid: 30dd81e846048464ba1da3c26e03c178,
         type: 3}
       propertyPath: resolution
-      value: 200
+      value: 100
       objectReference: {fileID: 0}
     - target: {fileID: 8137272789483632993, guid: 30dd81e846048464ba1da3c26e03c178,
         type: 3}
